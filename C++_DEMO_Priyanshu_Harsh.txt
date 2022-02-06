@@ -1,0 +1,121 @@
+C++
+
+- Language Paradigms:
+
+1. Procedural - C - Functions - Divide a problem in functions
+
+In C Standard Calc
+
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+sin()
+{
+	float x;
+}
+
+
+2. OOPS - Wrap all the variables and functions into a single unit: e.g: class
+
+class A
+{
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+}
+
+class B
+{
+sin()
+{
+	float x;
+}
+}
+
+
+- It is a superset of C
+- Object Oriented Programming Language, OOPS
+
+- Real Time Entity, Physical Entity
+
+
+- OOPS Features:
+
+class , object
+data hiding, encapsulation, abstraction
+inheritance
+polymorphism
+
+static, friend, namespace
+
+- Exception Handling
+- Templates
+- Standard Template Library
+- File Handling
+
+- variables, data types, loops, conditional statements, operators, arrays, functions
+
+- Turbo C++
+- code::blocks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
