@@ -1,0 +1,98 @@
+Procedural : Divide a problem in functions only e.g: c language
+OOPS: Wrap all the variables and methods into a single unit e.g: C++
+e.g: class
+
+
+In C Programming:
+
+int a, b; // Global Variables, Througout the program
+
+add()
+{
+//int c, d; // Local Variables, with in function or block
+}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+sin()
+{
+	double a;// ambiguity: confusion
+}
+
+In C++ Programming
+
+class A
+{
+
+int a, b; // instance variables, data members
+
+add()
+{
+}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+}
+
+class B {
+sin()
+{
+	double a;
+}
+}
+
+OOPS: Object Oriented Programming Language
+
+1. class and object
+
+class: category, blueprint, layout
+class: collection of similar types of objects, logical entity
+e.g: Human Brain, Height, Weight etc
+
+object: real time entity, physical entity
+e.g: Harsh, Priyansh, Ekta, Amit, Garima
+Harsh 6 feet height, 60kg weight, brain sharp etc
+
+2. Encapsulation and Data Hiding
+3. Inheritance
+4. Polymorphism
+5. friend, static, namespace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
