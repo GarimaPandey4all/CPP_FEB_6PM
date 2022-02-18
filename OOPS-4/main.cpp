@@ -14,11 +14,17 @@ private: // Data security or Data Hiding
 
 public:
 //    int accBalance, int accPin : Local variables
-    void setData(int accBalance, int accPin) // parameterized method
+//    void setData(int accBalance, int accPin) // parameterized method
+//    {
+////        instance variable = local variable
+//        this->accBalance = accBalance;
+//        this->accPin = accPin;
+//    }
+
+    void setData(int a, int b)
     {
-//        instance variable = local variable
-        this->accBalance = accBalance;
-        this->accPin = accPin;
+        accBalance = a;
+        accPin = b;
     }
 
     void getData()
@@ -27,7 +33,7 @@ public:
     }
 };
 
-//this = account
+//this = account's address
 //this keyword: it can hold current object's address
 
 int main()
